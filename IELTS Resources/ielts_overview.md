@@ -26,3 +26,7 @@ SPEAKING
 : what’s the goal you want to achieve?
 : ways to achieve?
 : any friends you have with same goal?
+
+
+
+https://docs.google.com/document/d/1iNr4cCKkB1MXwQCt0HpuLV49LZbZVCCSoU62BVQ845Y/edit#heading=h.367qq722pku
