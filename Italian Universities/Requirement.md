@@ -1,7 +1,7 @@
 1. CNIC - front and back in pdf
 2. SOP / LOM for that program + university
 3. Europass CV
-4. Transcript with grading criteria - from uni
+4. Transcript with grading criteria - from university
 5. Enrollment - Hope Certificate - from university
 6. English proficiency certificate - from university
 7. Study Plan - from university
