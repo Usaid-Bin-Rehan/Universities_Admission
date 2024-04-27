@@ -8,4 +8,5 @@
 8. Passport 
   i. Type the Number on the box or upload a pdf of a few pages (should have a sign of yours) 
   ii. write issued by NADRA or Pakistan
-9. Letter of Recommendation from Professors
+  iii. the minimum expiry date should be at least 6 - 12 months during the application process or admission in the University 
+10. Letter of Recommendation from Professors
