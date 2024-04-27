@@ -1,13 +1,13 @@
-Documents Needed
+Required Documents:
 
 1. CNIC - front and back in pdf
-2. SOP / LOM
+2. SOP / LOM for that program + university
 3. Europass CV
-4. Transcript with grading criteria - from uni
-5. Enrollment - Hope Certificate - from uni
-6. English proficieny certificate - from uni
-7. Study Plan - from uni
-8. Passport - 
-i. type Number on box or upload pdf of few pages 
-(should have sign of yours) 
-ii. write issued by NADRA or Pakistan
+4. Transcript with grading criteria - from the university
+5. Enrollment - Hope Certificate - from the university
+6. English proficiency certificate - from the university
+7. Study Plan - from university
+8. Passport 
+  i. Type the Number on the box or upload a pdf of a few pages (should have a sign of yours) 
+  ii. write issued by NADRA or Pakistan
+9. Letter of Recommendation from Professors
